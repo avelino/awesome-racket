@@ -11,13 +11,16 @@ Check all complete package list: https://pkgs.racket-lang.org/
 - [Awesome Racket](#awesome-racket)
     - [Web Frameworks](#web-frameworks)
 	- [Game Development](#game-development)
+	- [Games](#games)
 	- [Audio and Music](#audio-and-music)
+	- [Video](#video)
 	- [Compilers](#compilers)
 	- [Data Structures](#data-structures)
 	- [Third-party APIs](#third-party-apis)
 	- [Machine Learning](#machine-learning)
 	- [Database Drivers](#database-drivers)
 	- [Messaging](#messaging)
+	- [Macros](#macros)
 
 
 ## Web Frameworks
@@ -27,17 +30,28 @@ Check all complete package list: https://pkgs.racket-lang.org/
 * [web-server/servlet](http://docs.racket-lang.org/web-server/) - Running Web Servlets describes how to run the servlets you’ve written.
 * [Spin](https://github.com/dmac/spin) - Write RESTful web apps in Racket.
 * [HoLy](https://github.com/nihirash/holy) - HoLy is simple a HTTP-server Library for Racket.
+* [web-galaxy](https://github.com/euhmeuh/web-galaxy) - A minimalist web framework for the Racket web-server.
 
 
 ## Game Development
 
 *Awesome game development libraries.*
 
+* [mode-lambda](https://github.com/jeapostrophe/mode-lambda) - Sprite-based 2D graphics engine.
+* [get-bonus](https://github.com/get-bonus/get-bonus) - An experimental video game development environment.
 * [game-engine](https://github.com/srfoster/game-engine) - Scratchpad for racket game stuff.
 * [pict3d](https://github.com/jeapostrophe/pict3d) - A 3D engine with a purely functional API.
 * [vr-lang](https://github.com/thoughtstem/vr-lang) - Racket Lang for Virtual Reality (Aframe).
 * [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
 * [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
+
+
+## Games
+
+*Games written in Racket*
+
+* [web-sweeper](https://github.com/Halfwake/web-sweeper) - Stateless Server Side Mine Sweeper.
+* [space-invaders](https://github.com/soegaard/space-invaders) - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 
 
 ## Audio and Music
@@ -58,6 +72,13 @@ Check all complete package list: https://pkgs.racket-lang.org/
 - [wavelet-transform-haar-1d](https://github.com/jbclements/wavelet-transform-haar-1d) - A library to perform forward and reverse 1-d Haar Wavelet transforms.
 
 
+## Video
+
+*Racket tools for working with videos*
+
+- [video](https://github.com/videolang/video) - Video is a DSL for describing videos.
+
+
 ## Compilers
 
 *Tools for compiling Racket to other languages.*
@@ -68,6 +89,16 @@ Check all complete package list: https://pkgs.racket-lang.org/
 - [abstract-compilation](https://github.com/philnguyen/abstract-compilation) - DSL reducing boiler plates for doing abstract compilation.
 - [minipascal](https://github.com/soegaard/minipascal) - MiniPascal as a Racket language.
 - [zordoz](https://github.com/bennn/zordoz) - Explorer for .zo bytecode files.
+- [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) - A WebAssembly DSL
+- [wracket](https://github.com/sschauss/wracket) - Lisp-like language to WebAssembly build with racket.
+
+
+## Emulators
+
+*Racket programs emulating other computers and architectures*
+
+* [6502](https://github.com/soegaard/6502) -  An emulator/assembler/disassembler for 6502.
+* [virtual-mpu](https://github.com/euhmeuh/virtual-mpu) - Universal Emulator & Assembler for Old Microprocessors.
 
 
 ## Data Structures
@@ -94,6 +125,7 @@ Check all complete package list: https://pkgs.racket-lang.org/
 - [comm-panel](https://github.com/thoughtstem/comm-panel) - Racket GUI widget for sending, receiving, listening, and broadcasting strings over AWS SQS.
 - [google](https://github.com/tonyg/racket-google) - Google APIs (Drive, Plus, ...) for Racket.
 - [recaptcha](https://github.com/LiberalArtist/recaptcha) - Utilities for using reCAPTCHA with the web-server/formlets API.
+- [racket-ovh](https://github.com/euhmeuh/racket-ovh) - Unofficial Racket wrapper for OVH API.
 
 
 ## Machine Learning
@@ -131,3 +163,9 @@ Check all complete package list: https://pkgs.racket-lang.org/
 - [stomp](https://github.com/tonyg/racket-stomp) - STOMP messaging protocol codec and client.
 - [neuron-lib](https://github.com/dedbox/racket-neuron) - Impelementation of neuron.
 - [profj](https://github.com/mflatt/profj) - Kathy Gray's ProfessorJ language ported to modern DrRacket.
+
+## Macros
+
+*Awesome macros that make your life easier*
+
+- [anaphoric](https://github.com/jsmaniac/anaphoric) - Anaphoric macros for Racket.
