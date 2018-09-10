@@ -15,6 +15,7 @@ Check all complete package list: https://pkgs.racket-lang.org/
 	- [Audio and Music](#audio-and-music)
 	- [Video](#video)
 	- [Compilers](#compilers)
+	- [Emulators](#emulators)
 	- [Data Structures](#data-structures)
 	- [Third-party APIs](#third-party-apis)
 	- [Machine Learning](#machine-learning)
