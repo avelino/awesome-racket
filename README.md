@@ -162,7 +162,7 @@ Check all complete package list: https://pkgs.racket-lang.org/
 - [zmq](https://github.com/mordae/racket-zmq) - Minimal Racket ZeroMQ Bindings.
 - [zeromq-r](https://github.com/rmculpepper/racket-zeromq) - Bindings for ZeroMQ.
 - [stomp](https://github.com/tonyg/racket-stomp) - STOMP messaging protocol codec and client.
-- [neuron-lib](https://github.com/dedbox/racket-neuron) - Impelementation of neuron.
+- [neuron-lib](https://github.com/dedbox/racket-neuron) - Implementation of neuron.
 - [profj](https://github.com/mflatt/profj) - Kathy Gray's ProfessorJ language ported to modern DrRacket.
 
 ## Macros
