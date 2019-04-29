@@ -9,7 +9,8 @@ Check all complete package list: https://pkgs.racket-lang.org/
 ### Contents
 
 - [Awesome Racket](#awesome-racket)
-    - [Web Frameworks](#web-frameworks)
+		- [Contents](#contents)
+	- [Web Frameworks](#web-frameworks)
 	- [Game Development](#game-development)
 	- [Games](#games)
 	- [Audio and Music](#audio-and-music)
@@ -33,6 +34,7 @@ Check all complete package list: https://pkgs.racket-lang.org/
 * [Routy](https://github.com/Junker/routy) - Routy is a lightweight high performance HTTP request router for Racket.
 * [HoLy](https://github.com/nihirash/holy) - HoLy is simple a HTTP-server Library for Racket.
 * [web-galaxy](https://github.com/euhmeuh/web-galaxy) - A minimalist web framework for the Racket web-server.
+* [vela](https://github.com/nuty/vela) - Simple web framework to build RESTful app in Racket.
 
 
 
