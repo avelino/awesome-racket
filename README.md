@@ -14,6 +14,7 @@ The Racket repository: https://github.com/racket/racket
 	- [Web Frameworks](#web-frameworks)
 	- [Game Development](#game-development)
 	- [Games](#games)
+	- [GUI Development](#gui-development)
 	- [Audio and Music](#audio-and-music)
 	- [Video](#video)
 	- [Compilers](#compilers)
@@ -59,6 +60,15 @@ The Racket repository: https://github.com/racket/racket
 * [web-sweeper](https://github.com/Halfwake/web-sweeper) - Stateless Server Side Mine Sweeper.
 * [space-invaders](https://github.com/soegaard/space-invaders) - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 
+# GUI Development
+
+*Libraries for cross platform GUI development*
+
+- [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html) - Racket GUI library (core distribution)
+- [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator)
+- [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket
+- [map-widget](https://pkgs.racket-lang.org/package/map-widget) - A Racket GUI Widget to display maps based on OpenStreetMap tiles
+More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags=gui)
 
 ## Audio and Music
 
