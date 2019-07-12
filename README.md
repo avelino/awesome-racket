@@ -4,7 +4,8 @@
 
 A curated list of Awesome Racket, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
-Check all complete package list: https://pkgs.racket-lang.org/
+Check the complete package list: https://pkgs.racket-lang.org/
+The Racket repository: https://github.com/racket/racket
 
 ### Contents
 
