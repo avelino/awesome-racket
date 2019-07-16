@@ -59,6 +59,7 @@ The Racket repository: https://github.com/racket/racket
 
 * [web-sweeper](https://github.com/Halfwake/web-sweeper) - Stateless Server Side Mine Sweeper.
 * [space-invaders](https://github.com/soegaard/space-invaders) - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
+* <https://github.com/racket/games> - games in main distribution
 
 # GUI Development
 
