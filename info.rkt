@@ -5,11 +5,9 @@
                "html-lib"
                ["markdown" #:version "0.25"]
                "racket-index"
-               "web-server-lib"
-	       "2htdp"))
+               "web-server-lib"))
 (define build-deps '("at-exp-lib"
                      "net-doc"
                      "racket-doc"
                      "rackunit-lib"
-                     "web-server-doc"
-		     "2htdp"))
+                     "web-server-doc"))
