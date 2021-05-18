@@ -14,7 +14,7 @@ The Racket repository: https://github.com/racket/racket
 	- [Web Frameworks](#web-frameworks)
 	- [Game Development](#game-development)
 	- [Games](#games)
-    - [GUI Development](#gui-development)
+	- [GUI Development](#gui-development)
 	- [Audio and Music](#audio-and-music)
 	- [Video](#video)
 	- [Compilers](#compilers)
