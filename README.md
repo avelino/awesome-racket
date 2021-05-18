@@ -169,6 +169,7 @@ More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags
 - [racquel](https://github.com/brown131/racquel) - Racquel is an object/relational mapper for Racket.
 - [sql](https://github.com/rmculpepper/sql) - an S-expression notation for SQL.
 - [sqlite-table](https://github.com/jbclements/sqlite-table) - A quick way to create and query sqlite tables. Basically a simplified wrapper for a subset of the db library.
+- [deta](https://github.com/Bogdanp/deta) - A functional database mapper.
 
 
 ## Messaging
@@ -186,6 +187,7 @@ More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags
 *Awesome macros that make your life easier*
 
 - [anaphoric](https://github.com/jsmaniac/anaphoric) - Anaphoric macros for Racket.
+- [threading](https://github.com/lexi-lambda/threading) - Macros to flatten nested function calls.
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!
