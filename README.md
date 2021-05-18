@@ -25,7 +25,6 @@ The Racket repository: https://github.com/racket/racket
 	- [Database Drivers](#database-drivers)
 	- [Messaging](#messaging)
 	- [Macros](#macros)
-	- [Support on Beerpay](#support-on-beerpay)
 
 
 ## Web Frameworks
