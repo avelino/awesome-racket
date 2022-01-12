@@ -50,4 +50,4 @@ deploy:
   script: netlify deploy --dir=tmp --prod
   skip_cleanup: true
   on:
-    branch: master
+    branch: main
