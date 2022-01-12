@@ -186,8 +186,3 @@ More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags
 *Awesome macros that make your life easier*
 
 - [anaphoric](https://github.com/jsmaniac/anaphoric) - Anaphoric macros for Racket.
-
-## Support on Beerpay
-Hey dude! Help me out for a couple of :beers:!
-
-[![Beerpay](https://beerpay.io/avelino/awesome-racket/badge.svg?style=beer-square)](https://beerpay.io/avelino/awesome-racket)  [![Beerpay](https://beerpay.io/avelino/awesome-racket/make-wish.svg?style=flat-square)](https://beerpay.io/avelino/awesome-racket?focus=wish)
