@@ -8,6 +8,7 @@ jobs:
 
   test:
     runs-on: ubuntu-latest
+    environment: site
 
     steps:
     - uses: actions/checkout@v2
