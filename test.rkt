@@ -6,9 +6,17 @@
 
 (define readmemd (parse-markdown (file->string "./README.md")))
 
-(test-case "alphabetically summary"
+(define (check-alphabetically ul-list)
     (let ((ul (list)))
-        (for ([i (list-ref (list-ref (dict-ref readmemd 'ul) 1) 5)])
+        (for ([i ul-list])
             (if (and (list? i) (>= (length i) 2))
                 (set! ul (append ul (list (list-ref (list-ref i 2 ) 2)))) #f))
         (check-eq? ul (sort ul string<?))))
+
+(test-case "alphabetically"
+    ;; (equal? (list-ref (list-ref readmemd 8) 0) 'ul)
+    ;; (check-true (check-alphabetically (list-ref readmemd 8))))
+    (for ([i readmemd])
+        (if (equal? (list-ref i 0) 'ul)
+            (void? (check-alphabetically i))
+            #f)))
