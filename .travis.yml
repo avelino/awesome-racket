@@ -43,6 +43,7 @@ install:
   - npm install netlify-cli -g
 
 script:
+  - racket test.rkt
   - racket main.rkt
 
 deploy:
