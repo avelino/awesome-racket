@@ -8,19 +8,22 @@ on:
 
 jobs:
 
-  build:
-    container:
-      image: racket/racket-ci:latest
-      options: --init
-
-    runs-on: ubuntu-18.04
+  test:
+    runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: Test
-      run: |
-        export PATH=$PATH:`pwd`/racket/bin
-        raco test -l
+    - name: Install Racket
+      uses: Bogdanp/setup-racket@v0.11
+      with:
+        architecture: 'x64'
+        distribution: 'full'
+        variant: 'CS'
+        version: '7.9'
+    - name: Install Package and its Dependencies
+      run: raco pkg install --auto --batch
+    - name: Run Tests
+      run: raco test -l
 
     - name: site - make
       run: racket main.rkt
