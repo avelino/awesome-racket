@@ -25,12 +25,12 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 	- [GUI Development](#gui-development)
 	- [Game Development](#game-development)
 	- [Games](#games)
+	- [Images](#images)
 	- [Machine Learning](#machine-learning)
 	- [Macros](#macros)
 	- [Messaging](#messaging)
 	- [Third-party APIs](#third-party-apis)
 	- [Testing](#testing)
-	- [Video](#video)
 	- [Web Frameworks](#web-frameworks)
 
 ## Audio and Music
@@ -133,6 +133,15 @@ _Games written in Racket_
 - [space-invaders](https://github.com/soegaard/space-invaders) - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 - [web-sweeper](https://github.com/Halfwake/web-sweeper) - Stateless Server Side Mine Sweeper.
 
+## Images
+
+_Libraries for manipulating images._
+
+- [png-image](https://github.com/lehitoskin/png-image) - Library to view and modify PNG chunks.
+- [racket-jpeg](https://github.com/wingo/racket-jpeg) - JPEG parsing, transformation, and codec library for Racket.
+- [simple-qr](https://github.com/simmone/racket-simple-qr) - a qr code tool for racket-lang.
+- [video](https://github.com/videolang/video) - Video is a DSL for describing videos.
+
 ## Machine Learning
 
 _Libraries for Machine Learning._
@@ -182,12 +191,6 @@ _Libraries for testing codebases and generating test data_
 - [al2-test-runner](https://github.com/alex-hhh/al2-test-runner) - alternate rackunit test runner.
 - [cover](https://github.com/florence/cover) - a code coverage tool for racket.
 - [test-more](https://github.com/dstorrs/racket-test-more) - A Racket version of Perl's Test::More library.
-
-## Video
-
-_Racket tools for working with videos_
-
-- [video](https://github.com/videolang/video) - Video is a DSL for describing videos.
 
 ## Web Frameworks
 
