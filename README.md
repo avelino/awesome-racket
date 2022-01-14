@@ -136,6 +136,10 @@ _Games written in Racket_
 
 _Libraries for Machine Learning._
 
+- [DeepRacket](https://github.com/charlescearl/DeepRacket) - A simple starting point for doing deep learning in Racket.
+- [layer](https://github.com/cloudkj/layer) - Neural network inference the Unix way.
+- [racket-knn](https://github.com/asbaker/racket-knn) - K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket.
+- [racket-ml](https://github.com/danking/racket-ml) - A collection of things I found useful for doing Machine Learning problem sets.
 - [rml-core](https://github.com/johnstonskj/rml-core) - This Package is part of an expected set of packages implementing machine learning capabilities for Racket. The core of this package is the management of 'datasets', these datasets are assumed to be for training and testing of machine learning capabilities.
 - [rml-decisiontrees](https://github.com/johnstonskj/rml-decisiontrees) - This Package is part of a set of packages implementing machine learning capabilities for Racket. This particular package implements support for classification of individuals using decision trees.
 - [rml-knn](https://github.com/johnstonskj/rml-knn) - This Package is part of a set of packages implementing machine learning capabilities for Racket. This particular package implements the K-Nearest Neighbor approach for classification.
