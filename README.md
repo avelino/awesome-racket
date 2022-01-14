@@ -1,7 +1,8 @@
-# [Awesome Racket](https://awesome-racket.com)
+# <a href="https://awesome-racket.com/"><img align="right" src="https://racket-lang.org/img/racket-logo.svg" alt="awesome-racket" title="awesome-racket" /></a> [Awesome Racket](https://awesome-racket.com)
 
 A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
+[![Build Status](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/avelino/awesome-racket/actions/workflows/ci.yml?query=branch%3Amain)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Check the complete package list](https://pkgs.racket-lang.org/)
@@ -9,23 +10,24 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ### Contents
 
-- [Awesome Racket](#awesome-racket)
-		- [Contents](#contents)
-	- [Audio and Music](#audio-and-music)
-	- [Compilers](#compilers)
-	- [Data Structures](#data-structures)
-	- [Database Drivers](#database-drivers)
-	- [Emulators](#emulators)
-	- [GUI Development](#gui-development)
-	- [Game Development](#game-development)
-	- [Games](#games)
-	- [Machine Learning](#machine-learning)
-	- [Macros](#macros)
-	- [Messaging](#messaging)
-	- [Third-party APIs](#third-party-apis)
-	- [Testing](#testing)
-	- [Video](#video)
-	- [Web Frameworks](#web-frameworks)
+- [](#)
+- [<a href="https://awesome-racket.com/"><img align="right" src="https://racket-lang.org/img/racket-logo.svg" alt="awesome-racket" title="awesome-racket" /></a> Awesome Go](#-awesome-go)
+  - [Contents](#contents)
+  - [Audio and Music](#audio-and-music)
+  - [Compilers](#compilers)
+  - [Data Structures](#data-structures)
+  - [Database Drivers](#database-drivers)
+  - [Emulators](#emulators)
+  - [GUI Development](#gui-development)
+  - [Game Development](#game-development)
+  - [Games](#games)
+  - [Machine Learning](#machine-learning)
+  - [Macros](#macros)
+  - [Messaging](#messaging)
+  - [Third-party APIs](#third-party-apis)
+  - [Testing](#testing)
+  - [Video](#video)
+  - [Web Frameworks](#web-frameworks)
 
 ## Audio and Music
 
