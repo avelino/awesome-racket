@@ -108,6 +108,7 @@ _Libraries for cross platform GUI development_
 
 - [MrEd Designer](https://github.com/Metaxal/MrEd-Designer) - MrEd Designer is WYSIWYG program to create GUI applications for Racket. (code generator).
 - [The Racket Graphical Interface Toolkit](https://docs.racket-lang.org/gui/index.html) - Racket GUI library (core distribution).
+- [gui-easy](https://github.com/Bogdanp/racket-gui-easy) - A declarative API on top of `racket/gui`.
 - [gui-widget-mixins](https://pkgs.racket-lang.org/package/gui-widget-mixins) - Tool tips, cue text and validation for text-field% GUI widgets in Racket.
 - [map-widget](https://pkgs.racket-lang.org/package/map-widget) - A Racket GUI Widget to display maps based on OpenStreetMap tiles
 More at [packages tagged `GUI`](https://pkgd.racket-lang.org/pkgn/search?q=&tags=gui).
