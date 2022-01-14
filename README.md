@@ -63,6 +63,7 @@ _Tools for compiling Racket to other languages._
 - [whalesong-tools](https://github.com/vishesh/drracket-whalesong) - DrRacket tool for compiling with Whalesong.
 - [wracket](https://github.com/sschauss/wracket) - Lisp-like language to WebAssembly build with racket.
 - [zordoz](https://github.com/bennn/zordoz) - Explorer for .zo bytecode files.
+- [lens](https://github.com/jackfirth/lens) - A Racket package for creating and composing pure functional lenses.
 
 ## Data Structures
 
