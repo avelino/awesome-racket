@@ -23,6 +23,7 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 	- [Macros](#macros)
 	- [Messaging](#messaging)
 	- [Third-party APIs](#third-party-apis)
+	- [Testing](#testing)
 	- [Video](#video)
 	- [Web Frameworks](#web-frameworks)
 
@@ -48,6 +49,7 @@ _Libraries for manipulating audio._
 _Tools for compiling Racket to other languages._
 
 - [abstract-compilation](https://github.com/philnguyen/abstract-compilation) - DSL reducing boiler plates for doing abstract compilation.
+- [disassemble](https://github.com/samth/disassemble) - Disassembler for Racket.
 - [minipascal](https://github.com/soegaard/minipascal) - MiniPascal as a Racket language.
 - [racketscript](https://github.com/racketscript/racketscript) - A lightweight Racket to JavaScript compiler with some batteries included.
 - [urlang](https://github.com/soegaard/urlang) - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
@@ -120,6 +122,7 @@ _Awesome game development libraries._
 _Games written in Racket_
 
 - [Racket games](https://github.com/racket/games) - games in main distribution.
+- [r-cade](https://github.com/massung/r-cade) - Retro Game Engine for Racket.
 - [space-invaders](https://github.com/soegaard/space-invaders) - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 - [web-sweeper](https://github.com/Halfwake/web-sweeper) - Stateless Server Side Mine Sweeper.
 
@@ -159,6 +162,15 @@ _Libraries for accessing third party APIs._
 - [google](https://github.com/tonyg/racket-google) - Google APIs (Drive, Plus, etc) for Racket.
 - [racket-ovh](https://github.com/euhmeuh/racket-ovh) - Unofficial Racket wrapper for OVH API.
 - [recaptcha](https://github.com/LiberalArtist/recaptcha) - Utilities for using reCAPTCHA with the web-server/formlets API.
+
+## Testing
+
+_Libraries for testing codebases and generating test data_
+
+- [al2-test-runner](https://github.com/alex-hhh/al2-test-runner) - alternate rackunit test runner.
+- [RackUnit](https://docs.racket-lang.org/rackunit/) - RackUnit is a unit-testing framework for Racket. It is designed to handle the needs of all Racket programmers, from novices to experts.
+- [cover](https://github.com/florence/cover) - a code coverage tool for racket.
+- [test-more](https://github.com/dstorrs/racket-test-more) - A Racket version of Perl's Test::More library.
 
 ## Video
 
