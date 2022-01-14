@@ -1,4 +1,4 @@
-# <a href="https://awesome-racket.com/"><img align="right" src="https://racket-lang.org/img/racket-logo.svg" alt="awesome-racket" title="awesome-racket" /></a> [Awesome Racket](https://awesome-racket.com)
+# <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a> [Awesome Racket](https://awesome-racket.com)
 
 A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
