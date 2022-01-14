@@ -1,4 +1,6 @@
-# <a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a> [Awesome Racket](https://awesome-racket.com)
+# [Awesome Racket](https://awesome-racket.com)
+
+<a href="https://awesome-racket.com/"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/240px-Racket-logo.svg.png" alt="awesome-racket" title="awesome-racket" /></a>
 
 A curated list of **Awesome Racket**, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
@@ -10,24 +12,23 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 
 ### Contents
 
-- [](#)
-- [<a href="https://awesome-racket.com/"><img align="right" src="https://racket-lang.org/img/racket-logo.svg" alt="awesome-racket" title="awesome-racket" /></a> Awesome Go](#-awesome-go)
-  - [Contents](#contents)
-  - [Audio and Music](#audio-and-music)
-  - [Compilers](#compilers)
-  - [Data Structures](#data-structures)
-  - [Database Drivers](#database-drivers)
-  - [Emulators](#emulators)
-  - [GUI Development](#gui-development)
-  - [Game Development](#game-development)
-  - [Games](#games)
-  - [Machine Learning](#machine-learning)
-  - [Macros](#macros)
-  - [Messaging](#messaging)
-  - [Third-party APIs](#third-party-apis)
-  - [Testing](#testing)
-  - [Video](#video)
-  - [Web Frameworks](#web-frameworks)
+- [Awesome Racket](#awesome-racket)
+		- [Contents](#contents)
+	- [Audio and Music](#audio-and-music)
+	- [Compilers](#compilers)
+	- [Data Structures](#data-structures)
+	- [Database Drivers](#database-drivers)
+	- [Emulators](#emulators)
+	- [GUI Development](#gui-development)
+	- [Game Development](#game-development)
+	- [Games](#games)
+	- [Machine Learning](#machine-learning)
+	- [Macros](#macros)
+	- [Messaging](#messaging)
+	- [Third-party APIs](#third-party-apis)
+	- [Testing](#testing)
+	- [Video](#video)
+	- [Web Frameworks](#web-frameworks)
 
 ## Audio and Music
 
