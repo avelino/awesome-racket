@@ -49,7 +49,7 @@ _Tools for compiling Racket to other languages._
 
 - [abstract-compilation](https://github.com/philnguyen/abstract-compilation) - DSL reducing boiler plates for doing abstract compilation.
 - [minipascal](https://github.com/soegaard/minipascal) - MiniPascal as a Racket language.
-- [racketscript](https://github.com/vishesh/racketscript) - A lightweight Racket to JavaScript compiler with some batteries included.
+- [racketscript](https://github.com/racketscript/racketscript) - A lightweight Racket to JavaScript compiler with some batteries included.
 - [urlang](https://github.com/soegaard/urlang) - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
 - [wasm-adventure](https://github.com/euhmeuh/wasm-adventure) - A WebAssembly DSL.
 - [whalesong-tools](https://github.com/vishesh/drracket-whalesong) - DrRacket tool for compiling with Whalesong.
