@@ -187,8 +187,10 @@ _Full stack web frameworks._
 - [Routy](https://github.com/Junker/routy) - Routy is a lightweight high performance HTTP request router for Racket.
 - [Spin](https://github.com/dmac/spin) - Write RESTful web apps in Racket.
 - [frog](https://github.com/greghendershott/frog) - Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments.
+- [koyo](https://github.com/Bogdanp/koyo) - A web development toolkit for Racket.
 - [polkadot](https://github.com/2-3/polkadot) - A lightweight personal wiki in Racket.
 - [racket-request](https://github.com/jackfirth/racket-request) - Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket.
+- [riposte](https://github.com/vicampo/riposte) - Scripting language for testing JSON-based HTTP APIs.
 - [vela](https://github.com/nuty/vela) - Simple web framework to build RESTful app in Racket.
 - [web-galaxy](https://github.com/euhmeuh/web-galaxy) - A minimalist web framework for the Racket web-server.
 - [web-server/servlet](http://docs.racket-lang.org/web-server/) - Running Web Servlets describes how to run the servlets you’ve written.
