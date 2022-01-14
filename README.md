@@ -25,12 +25,12 @@ A curated list of **Awesome Racket**, libraries and software. Inspired by [aweso
 	- [GUI Development](#gui-development)
 	- [Game Development](#game-development)
 	- [Games](#games)
+	- [Images](#images)
 	- [Machine Learning](#machine-learning)
 	- [Macros](#macros)
 	- [Messaging](#messaging)
 	- [Third-party APIs](#third-party-apis)
 	- [Testing](#testing)
-	- [Video](#video)
 	- [Web Frameworks](#web-frameworks)
 
 ## Audio and Music
@@ -56,6 +56,7 @@ _Tools for compiling Racket to other languages._
 
 - [abstract-compilation](https://github.com/philnguyen/abstract-compilation) - DSL reducing boiler plates for doing abstract compilation.
 - [disassemble](https://github.com/samth/disassemble) - Disassembler for Racket.
+- [lens](https://github.com/jackfirth/lens) - A Racket package for creating and composing pure functional lenses.
 - [minipascal](https://github.com/soegaard/minipascal) - MiniPascal as a Racket language.
 - [racketscript](https://github.com/racketscript/racketscript) - A lightweight Racket to JavaScript compiler with some batteries included.
 - [urlang](https://github.com/soegaard/urlang) - Write JavaScript with Racket syntax. Bonus: Use Racket to define macros for JavaScript constructs.
@@ -63,7 +64,6 @@ _Tools for compiling Racket to other languages._
 - [whalesong-tools](https://github.com/vishesh/drracket-whalesong) - DrRacket tool for compiling with Whalesong.
 - [wracket](https://github.com/sschauss/wracket) - Lisp-like language to WebAssembly build with racket.
 - [zordoz](https://github.com/bennn/zordoz) - Explorer for .zo bytecode files.
-- [lens](https://github.com/jackfirth/lens) - A Racket package for creating and composing pure functional lenses.
 
 ## Data Structures
 
@@ -134,6 +134,15 @@ _Games written in Racket_
 - [space-invaders](https://github.com/soegaard/space-invaders) - A Racket remake of Mary Rose Cook's JavaScript version of Space Invaders.
 - [web-sweeper](https://github.com/Halfwake/web-sweeper) - Stateless Server Side Mine Sweeper.
 
+## Images
+
+_Libraries for manipulating images._
+
+- [png-image](https://github.com/lehitoskin/png-image) - Library to view and modify PNG chunks.
+- [racket-jpeg](https://github.com/wingo/racket-jpeg) - JPEG parsing, transformation, and codec library for Racket.
+- [simple-qr](https://github.com/simmone/racket-simple-qr) - a qr code tool for racket-lang.
+- [video](https://github.com/videolang/video) - Video is a DSL for describing videos.
+
 ## Machine Learning
 
 _Libraries for Machine Learning._
@@ -183,12 +192,6 @@ _Libraries for testing codebases and generating test data_
 - [al2-test-runner](https://github.com/alex-hhh/al2-test-runner) - alternate rackunit test runner.
 - [cover](https://github.com/florence/cover) - a code coverage tool for racket.
 - [test-more](https://github.com/dstorrs/racket-test-more) - A Racket version of Perl's Test::More library.
-
-## Video
-
-_Racket tools for working with videos_
-
-- [video](https://github.com/videolang/video) - Video is a DSL for describing videos.
 
 ## Web Frameworks
 

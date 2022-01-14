@@ -3,7 +3,7 @@
 (require rackunit
          markdown)
 
-(define readmemd (parse-markdown (file->string "./README.md")))
+(define readmemd (parse-markdown (file->string "../README.md")))
 
 (define (check-alphabetically ul-list)
   (let ([ul (list)])
