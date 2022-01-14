@@ -14,7 +14,4 @@
         (check-eq? ul (sort ul string<?))))
 
 (test-case "alphabetically"
-    (for ([i readmemd])
-        (if (equal? (list-ref i 0) 'ul)
-            (void? (check-alphabetically i))
-            #f)))
+    (map (lambda (i) (if (equal? (list-ref i 0) 'ul) (void? (check-alphabetically i)) #f)) readmemd))
