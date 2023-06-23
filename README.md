@@ -77,6 +77,7 @@ _Generic datastructures and algorithms._
 - [opt](https://gitlab.com/RayRacine/opt) - Optional and Either data type utilities. Provides util function for Typed Racket's Option type as well as defines an Either type.
 - [phc-adt](https://github.com/jsmaniac/phc-adt) - Algebraic Data Types for Typed/Racket, with features tailored to compiler writing. The data types do not have to be declared before they are used, like prefab structs and symbols. Behind the scenes, this library remembers all the data types in a file, and uses it to implicitly pre-declare them. Mostly stable, although some things may change a bit in the future.
 - [quad-tree](https://github.com/dented42/racket-quad-tree) - A fairly simple quad-tree implementation. Nothing terribly fancy. Currently rather unstable.
+- [rebellion](https://docs.racket-lang.org/rebellion/index.html) - Dozens of well-documented modules to aid in general-purpose programming. **Extensive**. Includes multidict, range set, and much more.
 - [try](https://gitlab.com/RayRacine/try) - A Typed Racket Try datatype and routines for computations that throw exceptions.
 
 ## Database Drivers
